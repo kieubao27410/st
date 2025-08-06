@@ -1,0 +1,7 @@
+{
+    "initial_bot_message": "Chao ban, toi la Phobot. Toi co the giup gi cho ban",
+    "function": [
+        "giới thiệu nhà hàng",
+        "giới thiệu menu"
+    ]
+}
